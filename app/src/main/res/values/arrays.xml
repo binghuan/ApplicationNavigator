@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- Used in method of sending card -->
+    <string-array name="select_dialog_items">
+    	<item>Tell a friend (Email)</item>
+    	<item>Tell a friend (SMS)</item>
+    	<item>Create a shortcut</item>
+    	<item>View introduction</item>
+        <item>Application Info.</item>
+    </string-array>
+    
+</resources>

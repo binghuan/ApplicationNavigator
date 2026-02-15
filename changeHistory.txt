@@ -1,0 +1,4 @@
+// 1.40_20101227
+	* fix bug by using the android 2.3
+	  [symptom]: view the app info. will be crashed.
+	  [solution]: add scheme. "package."

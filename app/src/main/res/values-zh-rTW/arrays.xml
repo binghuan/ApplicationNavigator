@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- Used in method of sending card -->
+    <string-array name="select_dialog_items">
+    	<item>分享給其它人 (Email)</item>
+    	<item>分享給其它人 (簡訊)</item>
+    	<item>建立捷徑</item>
+    	<item>觀看Market作品介紹</item>
+        <item>應用程式資訊</item>
+    </string-array>
+    
+</resources>

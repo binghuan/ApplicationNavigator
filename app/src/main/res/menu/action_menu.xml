@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/btn_title_refresh"
+        android:icon="@drawable/ic_title_refresh"
+        android:title="@string/refresh"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/button_privatelist"
+        android:icon="@drawable/ic_title_privatelist"
+        android:title="@string/privacy"
+        app:showAsAction="ifRoom" />
+
+
+    <item
+        android:id="@+id/button_app_store"
+        android:icon="@drawable/ic_title_market"
+        android:title="@string/google_play"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/btn_title_search"
+        android:icon="@drawable/ic_title_search"
+        android:title="@string/search"
+        app:showAsAction="ifRoom" />
+
+
+</menu>

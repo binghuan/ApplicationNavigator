@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">程式導覽器</string>
+    <string name="indicator_on">導覽器指標 >> 啟動</string>
+    <string name="indicator_off">導覽器指標 >> 取消</string>
+
+    <string name="msg_load_app">讀取程式列表 &#8230;</string>
+    <string name="title_options">選項</string>
+
+
+    <string name="menu_more_apps">其它作品</string>
+    <string name="menu_toggle_indicator">狀態列指標</string>
+    <string name="menu_sys_settings">系統設定</string>
+
+    <!-- BH_Lin@20101026: ______________________________________________________
+    	purpose: About Me
+     -->
+    <string name="menu_about">關於</string>
+    <string name="activity_not_found">目標應用程式沒有存在於本機端中</string>
+
+    <string name="alert_dialog_ok">OK</string>
+    <string name="copy_right">©2016 Studio Bing-Huan</string>
+    <string name="version">版本</string>
+    <string name="feedback">建議? 問題? 意見?</string>
+    <string name="sendmail">寫信給我</string>
+    <string name="visitfacebook">造訪我們的facebook</string>
+    
+    <!-- BH_Lin@20101026	_________________________________________________-->
+    
+    <string name="catogory_lbs">定位服務</string>
+    <string name="catogory_contact">聯絡人</string>
+    <string name="catogory_canlendar">行事曆</string>
+    <string name="catogory_reminder">提醒事項</string>
+    <string name="catogory_picture">SD卡存取</string>
+    <string name="catogory_bluetooth">藍芽共享</string>
+    
+    <string name="title_privacy">程式導覽器 - 隱私存取清單</string>
+    
+    <string name="description_privacy">之前要求取用您的下列權限的應用程式會顯示個別目錄中</string>
+    <string name="refresh">重整</string>
+    <string name="privacy">隱私</string>
+    <string name="search">搜尋</string>
+    
+</resources>
