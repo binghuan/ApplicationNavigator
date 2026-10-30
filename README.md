@@ -1,5 +1,11 @@
 # Apps Navigator
 
+## Feature overview
+
+![ApplicationNavigator — feature flow diagram](README-assets/project-preview.svg)
+
+Conceptual feature flow based on this repository; this is a documentation diagram, not an application screenshot.
+
 A lightweight Android utility application designed to help users navigate their installed apps and monitor privacy-related permissions efficiently.
 
 ## 📱 Features
